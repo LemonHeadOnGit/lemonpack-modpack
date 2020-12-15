@@ -26,6 +26,7 @@ Special thanks to these mod authors, mainly because I really enjoy their mods:
 
 | AUTHOR | MOD |
 | ------ | --- |
+| Mezz   | JEI |
 | Micdoodle8 | Galacticraft |
 | Refined Mods | Refined Storage |
 | Brandon3055 | Draconic Evolution |

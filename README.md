@@ -12,7 +12,7 @@ This repository stores the JAR files, config files, and any other necessary file
 
 ---
 
-## ` YOU ARE CURRENTLY ON THE CLIENT VERSION OF THE MODPACK `
+### ` YOU ARE CURRENTLY ON THE CLIENT VERSION OF THE MODPACK `
 
 ---
 

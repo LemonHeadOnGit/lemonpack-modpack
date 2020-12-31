@@ -38,20 +38,14 @@ Special thanks to these mod authors, mainly because I really enjoy their mods:
 
 ### INSTALLATION INSTRUCTIONS (SUBJECT TO CHANGE)
 
-Step 0. Download the 'main' branch of the repository, and download the [CurseForge Launcher](https://curseforge.overwolf.com) (no longer the Twitch Desktop app).
+Step 0. Click on the latest release of the modpack on the right side of this page (Usually CurseForge Release vX.X.X), and follow the instructions in the description of the release. Download the [CurseForge Launcher](https://curseforge.overwolf.com) (no longer the Twitch Desktop app).
 
 Step 1. Install the CurseForge Launcher. Navigate to the "Choose a Game" menu, and click on Minecraft. Follow the necessary instructions to get the Minecraft Instance running.
 
 >Note: If there are problems installing the Minecraft Instance, run CurseForge as Administrator. You should **NOT** need to run it as Administrator again afterwards.
 
-Step 2. Click on "Create Profile" and choose Minecraft Version 1.12.2. As of writing this, the latest forge version should be the one that comes up when selecting Minecraft 1.12.2. When ready, click the "Create" button.
+Step 2. Click on [Create Custom Profile] and click on [import previously created profile].
 
-Step 3. Click on the profile name, and click on the 3 to the left of the [Play] button. Click on profile options, and unselect use system memory. Drag the slider to anything above 5000MB.
+Step 3. Wait for all the mods to download, and then click [Play]
 
->Important: If Minecraft crashes when loading mods, chances are, you need to allocate more RAM. There are times though when it crashes for no reason, so to make sure, click on Play again when launching the modpack.
-
-Step 4. While still in the 3 Dots menu, click on Open Profile Folder. Drag and drop the dowmloaded repository files/folders into the profile folder. The three folders should be `mods`, `config` and `resources`.
-
-Step 5. Go back to the CurseForge Launcher, and click play. When the Minecraft Launcher appears, log in and click [Play].
-
->It is recommended that you close any other unneeded applications to maximize on available CPU and RAM resources.
+>Important: If Minecraft crashes when loading mods, chances are, you need to allocate more RAM. There are times though when it crashes for no reason, so to make sure, click on Play again when launching the modpack. It is recommended that you close any other unneeded applications to maximize on available CPU and RAM resources.

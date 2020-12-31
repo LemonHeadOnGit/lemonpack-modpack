@@ -49,3 +49,9 @@ Step 2. Click on [Create Custom Profile] and click on [import previously created
 Step 3. Wait for all the mods to download, and then click [Play]
 
 >Important: If Minecraft crashes when loading mods, chances are, you need to allocate more RAM. There are times though when it crashes for no reason, so to make sure, click on Play again when launching the modpack. It is recommended that you close any other unneeded applications to maximize on available CPU and RAM resources.
+
+### HELP AND INFORMATION
+
+To find out more about the modpack, and to find help about individual mods, please see the [Wiki](https://github.com/LemonHeadOnGit/lemonpack-modpack/wiki).
+
+>Note: Not all mods will be there, since certain mod authors require that you link to their own Wiki for information.

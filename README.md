@@ -6,9 +6,7 @@
     <a><img src="https://img.shields.io/badge/Version-v0.2.2-important" /></a>
 </p>
 
-This repository stores the JAR files, config files, and any other necessary files that makes the modpack what it is.
-
-### THE REPOSITORY IS STILL IN EARLY STAGES, SO NOT EVERYTHING IS HERE YET.
+This repository stores the config files and resource files to make the modpack what it is.
 
 ---
 

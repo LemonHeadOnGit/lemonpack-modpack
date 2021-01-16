@@ -50,6 +50,6 @@ Step 3. Wait for all the mods to download, and then click [Play]
 
 ### HELP AND INFORMATION
 
-To find out more about the modpack, and to find help about individual mods, please see the [Wiki](https://github.com/LemonHeadOnGit/lemonpack-modpack/wiki).
+To find out more about the modpack, please see the [Wiki](https://github.com/LemonHeadOnGit/lemonpack-modpack/wiki). If you need help with mods, for the love of god Google/Bing/DuckDuckGo it. There are so many in here I quite frankly don't have the time. I might change my mind in the future though.
 
 >Note: Not all mods will be there, since certain mod authors require that you link to their own Wiki for information.

@@ -3,7 +3,7 @@
 <p align="center">
     <a href="https://github.com/LemonHeadOnGit/lemonpack-modpack/issues" alt="Issues">
         <img src="https://img.shields.io/github/issues/LemonHeadOnGit/lemonpack-modpack" /></a>
-    <a><img src="https://img.shields.io/badge/Version-v0.2.2-important" /></a>
+    <a><img src="https://img.shields.io/badge/Version-v0.2.3-important" /></a>
 </p>
 
 This repository stores the config files and resource files to make the modpack what it is.
